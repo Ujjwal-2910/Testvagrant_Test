@@ -1,9 +1,9 @@
 # Shopping Cart
 
-Name: Ujjwal Kumar Agrawal
-USN: 1BI20IS114
-Email: ujjwalagrawal29102001@gmail.com
-Phone: 9348662295
+Name: Ujjwal Kumar Agrawal <br/>
+USN: 1BI20IS114 <br/>
+Email: ujjwalagrawal29102001@gmail.com <br/>
+Phone: 9348662295 <br/>
 
 # About
 
